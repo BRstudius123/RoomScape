@@ -1,0 +1,6 @@
+               MANUAL DE INSTALAÇÃO
+
+Para jogar este jogo, terá que ter a IDE de LUA (no Android,
+poderá usar a LuaDroid, em outros diapositivos terá que 
+procurar no Youtube ou outros lugares), em seguida, abrirá
+o arquivo "roomscape.lua" na IDE e clicará em rodar.
